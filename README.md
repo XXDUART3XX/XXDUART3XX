@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @XXDUART3XX
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning Full-Stack Development and Python.
+- 💞️ I’m looking to collaborate on Aubay.
